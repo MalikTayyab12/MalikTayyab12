@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-MalikTayyab12/MalikTayyab12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tayyabwaheed/MalikTayyab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
